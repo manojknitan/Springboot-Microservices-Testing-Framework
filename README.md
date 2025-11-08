@@ -26,8 +26,8 @@ Unit and integration testing are implemented using:
 
 ## ▶️ How to Run
 1. Clone this repo  
-   git clone https://github.com/yourusername/Springboot-Microservices-Testing-Framework.git
-   cd Springboot-Microservices-Testing-Framework
-   mvn spring-boot:run
+   - git clone https://github.com/yourusername/Springboot-Microservices-Testing-Framework.git
+   - cd Springboot-Microservices-Testing-Framework
+   - mvn spring-boot:run
 
 
